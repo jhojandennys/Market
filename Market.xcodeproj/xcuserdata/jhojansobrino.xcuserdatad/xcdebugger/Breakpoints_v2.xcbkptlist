@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "11C65935-7A30-4842-8CFA-3C38BBBABD0D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C86779A6-E244-4156-89A0-FD6B69BF1282"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Market/Model/Item.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "downloadItemsFromFirebase(_:completion:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "C86779A6-E244-4156-89A0-FD6B69BF1282 - cb0a8c55b60bbff8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Market.downloadItemsFromFirebase(_: Swift.String, completion: (Swift.Array&lt;Market.Item&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Market"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhojansobrino/Downloads/Market/Market/Model/Item.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56">
+               </Location>
+               <Location
+                  uuid = "C86779A6-E244-4156-89A0-FD6B69BF1282 - 2b328b688fb4e9ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Market.downloadItemsFromFirebase(_: Swift.String, completion: (Swift.Array&lt;Market.Item&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Market"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhojansobrino/Downloads/Market/Market/Model/Item.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3201543F-2E52-42EC-8944-7187CE136F2E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Market/Main Views/CategoryCollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
